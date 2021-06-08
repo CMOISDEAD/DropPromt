@@ -2,4 +2,4 @@
 
 ![Dropt](https://raw.githubusercontent.com/CMOISDEAD/DropPromt/master/dropt.png)
 
-Another minimalist prompt theme... but i made this :).
+Fast, minimalist and highly customizable, a theme for ZSH that has everything you need ... well that's what I'm looking for 🙃
